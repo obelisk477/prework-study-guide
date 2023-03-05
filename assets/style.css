@@ -6,9 +6,13 @@
 header,
 footer {
     width: 100%;
-    height: 120px;
-    background-color: blue;
+    height: 180px;
+    background-color: rgb(24, 24, 112);
     color: white;
+}
+
+h1 {
+    padding-top: 10px;
 }
 
 h1,
